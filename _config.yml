@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: VPN Pro 在线文档
+subtitle: 突破IP地址限制，访问全球的信息资源
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+#description: Vno Jekyll is a port of my Ghost theme vno.
+#creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+url: "https://docs.vpnpro.me"
 
 permalink: /:year/:month/:title/
 
@@ -17,12 +17,12 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 教程
+    description: 在线教程
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 主页, description: VPN Pro 主页, url: 'https://www.vpnpro.me'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -32,16 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: VPN Pro
     # duoshuo: 
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    facebook: daigang0701@gmail.com
+    github: ddxs
+    twitter: daigang0701@gmail.com
+    gplus: daigang0701@gmail.com
+    mail: support@vpnpro.me
 
 # Google Analytics
 ga:
