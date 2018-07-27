@@ -1,7 +1,7 @@
 # Basic
-title: VPN Pro 在线文档
-subtitle: 突破IP地址限制，访问全球的信息资源
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+title: VPNPro 在线文档
+subtitle: 突破IP限制，访问全球资源
+welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">文档目录</a>
 #description: Vno Jekyll is a port of my Ghost theme vno.
 #creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -32,7 +32,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: VPN Pro
+    disqus: VPNPro
     # duoshuo: 
     
 # Social
