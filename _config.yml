@@ -1,11 +1,11 @@
 # Basic
 title: 科学上网联盟在线文档
 subtitle: 突破IP限制，访问全球资源
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">文档目录</a>
+welcome_message: <a href="/2018/08/使用说明列表/" target="_blank">文档目录</a>
 #description: Vno Jekyll is a port of my Ghost theme vno.
 #creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "https://docs.vpnpro.me"
+url: "https://blog.vpnpro.me"
 
 permalink: /:year/:month/:title/
 
@@ -17,12 +17,12 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: 教程
+    title: 使用文档
     description: 在线教程
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 主页, description: 科学上网联盟 主页, url: 'https://www.vpnpro.me'}
+    - {title: 返回主页, description: 科学上网联盟 主页, url: 'https://www.vpnpro.me'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
