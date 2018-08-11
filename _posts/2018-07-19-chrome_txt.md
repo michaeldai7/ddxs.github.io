@@ -7,41 +7,41 @@ categories:  Chrome 浏览器代理
 
 切换到[谷歌 Chrome 浏览器 视频教程](/2018/07/chrome/ "Chrome")
 
-![chrome](/assets/images/chrome/chrome1.png "")
+![chrome](/assets/images/chrome/chrome1.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome2.png "")
+![chrome](/assets/images/chrome/chrome2.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome3.png "")
+![chrome](/assets/images/chrome/chrome3.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome4.png "")
+![chrome](/assets/images/chrome/chrome4.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome5.png "")
+![chrome](/assets/images/chrome/chrome5.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome6.png "")
+![chrome](/assets/images/chrome/chrome6.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome7.png "")
+![chrome](/assets/images/chrome/chrome7.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome8.png "")
+![chrome](/assets/images/chrome/chrome8.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome9.png "")
+![chrome](/assets/images/chrome/chrome9.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome10.png "")
+![chrome](/assets/images/chrome/chrome10.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome11.png "")
+![chrome](/assets/images/chrome/chrome11.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome12.png "")
+![chrome](/assets/images/chrome/chrome12.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome13.png "")
+![chrome](/assets/images/chrome/chrome13.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome14.png "")
+![chrome](/assets/images/chrome/chrome14.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome15.png "")
+![chrome](/assets/images/chrome/chrome15.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome16.png "")
+![chrome](/assets/images/chrome/chrome16.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome17.png "")
+![chrome](/assets/images/chrome/chrome17.png "Chrome")
 ### 
-![chrome](/assets/images/chrome/chrome18.png "")
+![chrome](/assets/images/chrome/chrome18.png "Chrome")
 
 ### 主要步骤
 
