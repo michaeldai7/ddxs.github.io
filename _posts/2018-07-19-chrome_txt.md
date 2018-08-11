@@ -8,41 +8,26 @@ categories:  Chrome 浏览器代理
 切换到[谷歌 Chrome 浏览器 视频教程](/2018/07/chrome/ "Chrome")
 
 ****
+
 ![Alt ](/assets/images/chrome/chrome1.png "")
-****
 ![Alt ](/assets/images/chrome/chrome2.png "")
-****
 ![Alt ](/assets/images/chrome/chrome3.png "")
-****
 ![Alt ](/assets/images/chrome/chrome4.png "")
-****
 ![Alt ](/assets/images/chrome/chrome5.png "")
-****
 ![Alt ](/assets/images/chrome/chrome6.png "")
-****
 ![Alt ](/assets/images/chrome/chrome7.png "")
-****
 ![Alt ](/assets/images/chrome/chrome8.png "")
-****
 ![Alt ](/assets/images/chrome/chrome9.png "")
-****
 ![Alt ](/assets/images/chrome/chrome10.png "")
-****
 ![Alt ](/assets/images/chrome/chrome11.png "")
-****
 ![Alt ](/assets/images/chrome/chrome12.png "")
-****
 ![Alt ](/assets/images/chrome/chrome13.png "")
-****
 ![Alt ](/assets/images/chrome/chrome14.png "")
-****
 ![Alt ](/assets/images/chrome/chrome15.png "")
-****
 ![Alt ](/assets/images/chrome/chrome16.png "")
-****
 ![Alt ](/assets/images/chrome/chrome17.png "")
-****
 ![Alt ](/assets/images/chrome/chrome18.png "")
+
 ****
 
 ### 主要步骤
