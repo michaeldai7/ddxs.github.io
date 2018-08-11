@@ -8,15 +8,12 @@ categories:  Chrome 浏览器代理
 切换到[谷歌 Chrome 浏览器 视频教程](/2018/07/chrome/ "Chrome")
 
 ****
-
 ![Alt ](/assets/images/chrome/chrome1.png "")
 
 ****
-
 ![Alt ](/assets/images/chrome/chrome2.png "")
 
 ****
-
 ![Alt ](/assets/images/chrome/chrome3.png "")
 
 ****
