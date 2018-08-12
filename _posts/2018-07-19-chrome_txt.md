@@ -5,7 +5,7 @@ date:   2018-07-19 02:05:38 +0800
 categories:  Chrome 浏览器代理
 ---
 
-切换到[谷歌 Chrome 浏览器 视频教程](/2018/07/chrome/ "Chrome")
+### 切换到[谷歌 Chrome 浏览器 **视频教程**](/2018/07/chrome/ "Chrome")
 
 ![chrome](/assets/images/chrome/chrome1.png "Chrome")
 ![chrome](/assets/images/chrome/chrome2.png "Chrome")
