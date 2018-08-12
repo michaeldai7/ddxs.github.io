@@ -1,0 +1,62 @@
+---
+layout: post
+title:  安卓系统 图文教程
+date:   2018-03-19 02:05:38 +0800
+categories:  安卓 Anyconnect
+---
+
+切换到[安卓系统 视频教程](/2018/03/android/ "Android")
+
+****
+
+![android](/assets/images/android/android1.png "Android")
+![android](/assets/images/android/android2.png "Android")
+![android](/assets/images/android/android3.png "Android")
+![android](/assets/images/android/android4.png "Android")
+![android](/assets/images/android/android5.png "Android")
+![android](/assets/images/android/android6.png "Android")
+![android](/assets/images/android/android7.png "Android")
+![android](/assets/images/android/android8.png "Android")
+![android](/assets/images/android/android9.png "Android")
+![android](/assets/images/android/android10.png "Android")
+![android](/assets/images/android/android11.png "Android")
+![android](/assets/images/android/android12.png "Android")
+![android](/assets/images/android/android13.png "Android")
+![android](/assets/images/android/android14.png "Android")
+![android](/assets/images/android/android15.png "Android")
+![android](/assets/images/android/android16.png "Android")
+![android](/assets/images/android/android17.png "Android")
+
+****
+
+### 软件下载
+
+>[AnyConnect 下载](http://blog.vpnpro.me/files/android.apk)
+
+### 主页上点击旗帜，自动复制服务器地址到系统剪贴板
+
+>au.vipin.us (澳大利亚/Australia)
+
+>cn.vipin.us（中国/China）
+
+>de.vipin.us（德国/Germany）
+
+>fr.vipin.us（法国/France）
+
+>hk.vipin.us（香港/HongKong）
+
+>kr.vipin.us（韩国/Korea）
+
+>jp.vipin.us（日本/Japan）
+
+>nl.vipin.us（荷兰/Holland）
+
+>sg.vipin.us（新加坡/Singapore）
+
+>tw.vipin.us（台湾/Taiwan）
+
+>uk.vipin.us（英国/United Kingdom）
+
+>us.vipin.us（美国/United States）
+
+****
