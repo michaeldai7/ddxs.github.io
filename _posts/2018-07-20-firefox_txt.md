@@ -27,5 +27,6 @@ categories:  FireFox 浏览器代理
 
 ```
 http://blog.vpnpro.me/proxy
+http://pac.vipin.us:88
 ```
 ****
