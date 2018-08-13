@@ -9,29 +9,29 @@ categories:  安卓 Anyconnect
 
 ****
 
-![android](http://f.vipin.us:88/images/android/android1.png "Android")
-![android](http://f.vipin.us:88/images/android/android2.png "Android")
-![android](http://f.vipin.us:88/images/android/android3.png "Android")
-![android](http://f.vipin.us:88/images/android/android4.png "Android")
-![android](http://f.vipin.us:88/images/android/android5.png "Android")
-![android](http://f.vipin.us:88/images/android/android6.png "Android")
-![android](http://f.vipin.us:88/images/android/android7.png "Android")
-![android](http://f.vipin.us:88/images/android/android8.png "Android")
-![android](http://f.vipin.us:88/images/android/android9.png "Android")
-![android](http://f.vipin.us:88/images/android/android10.png "Android")
-![android](http://f.vipin.us:88/images/android/android11.png "Android")
-![android](http://f.vipin.us:88/images/android/android12.png "Android")
-![android](http://f.vipin.us:88/images/android/android13.png "Android")
-![android](http://f.vipin.us:88/images/android/android14.png "Android")
-![android](http://f.vipin.us:88/images/android/android15.png "Android")
-![android](http://f.vipin.us:88/images/android/android16.png "Android")
-![android](http://f.vipin.us:88/images/android/android17.png "Android")
+![android](/assets/images/android/android1.png "Android")
+![android](/assets/images/android/android2.png "Android")
+![android](/assets/images/android/android3.png "Android")
+![android](/assets/images/android/android4.png "Android")
+![android](/assets/images/android/android5.png "Android")
+![android](/assets/images/android/android6.png "Android")
+![android](/assets/images/android/android7.png "Android")
+![android](/assets/images/android/android8.png "Android")
+![android](/assets/images/android/android9.png "Android")
+![android](/assets/images/android/android10.png "Android")
+![android](/assets/images/android/android11.png "Android")
+![android](/assets/images/android/android12.png "Android")
+![android](/assets/images/android/android13.png "Android")
+![android](/assets/images/android/android14.png "Android")
+![android](/assets/images/android/android15.png "Android")
+![android](/assets/images/android/android16.png "Android")
+![android](/assets/images/android/android17.png "Android")
 
 ****
 
 ### 软件下载
 
->[AnyConnect 下载](http://f.vipin.us:88/files/android.apk)
+>[AnyConnect 下载](http://blog.vpnpro.me/files/android.apk)
 
 ### 主页上点击旗帜，自动复制服务器地址到系统剪贴板
 

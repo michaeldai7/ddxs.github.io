@@ -9,28 +9,22 @@ categories:  Windows Anyconnect
 
 ****
 
-![windows](http://f.vipin.us:88/images/windows/windows1.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows2.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows3.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows4.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows5.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows6.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows7.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows8.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows9.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows10.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows11.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows12.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows13.png "Windows")
-![windows](http://f.vipin.us:88/images/windows/windows14.png "Windows")
+![windows](/assets/images/windows/windows1.png "Windows")
+![windows](/assets/images/windows/windows2.png "Windows")
+![windows](/assets/images/windows/windows3.png "Windows")
+![windows](/assets/images/windows/windows4.png "Windows")
+![windows](/assets/images/windows/windows5.png "Windows")
+![windows](/assets/images/windows/windows6.png "Windows")
+![windows](/assets/images/windows/windows7.png "Windows")
+![windows](/assets/images/windows/windows8.png "Windows")
+![windows](/assets/images/windows/windows9.png "Windows")
+![windows](/assets/images/windows/windows10.png "Windows")
+![windows](/assets/images/windows/windows11.png "Windows")
+![windows](/assets/images/windows/windows12.png "Windows")
+![windows](/assets/images/windows/windows13.png "Windows")
+![windows](/assets/images/windows/windows14.png "Windows")
 
 ****
-
-### 软件下载
-
->[Win 10,8,7 版下载](http://f.vipin.us:88/files/win10.msi)
-
->[Win XP 版下载](http://f.vipin.us:88/files/winxp.msi)
 
 ### 主页上点击旗帜，自动复制服务器地址到系统剪贴板
 
