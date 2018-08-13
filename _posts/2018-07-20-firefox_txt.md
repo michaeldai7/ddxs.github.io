@@ -26,7 +26,6 @@ categories:  FireFox 浏览器代理
 ### 在线恢复的网络地址
 
 ```
-http://blog.vpnpro.me/proxy
-http://pac.vipin.us:88
+f.vipin.us:88
 ```
 ****
