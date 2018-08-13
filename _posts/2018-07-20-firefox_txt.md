@@ -9,17 +9,17 @@ categories:  FireFox 浏览器代理
 
 ****
 
-![firefox](/assets/images/firefox/firefox1.png "FireFox")
-![firefox](/assets/images/firefox/firefox2.png "FireFox")
-![firefox](/assets/images/firefox/firefox3.png "FireFox")
-![firefox](/assets/images/firefox/firefox4.png "FireFox")
-![firefox](/assets/images/firefox/firefox5.png "FireFox")
-![firefox](/assets/images/firefox/firefox6.png "FireFox")
-![firefox](/assets/images/firefox/firefox7.png "FireFox")
-![firefox](/assets/images/firefox/firefox8.png "FireFox")
-![firefox](/assets/images/firefox/firefox9.png "FireFox")
-![firefox](/assets/images/firefox/firefox10.png "FireFox")
-![firefox](/assets/images/firefox/firefox11.png "FireFox")
+![firefox](http://f.vipin.us:88/images/firefox/firefox1.png "FireFox")
+![firefox](http://f.vipin.us:88/images/firefox/firefox2.png "FireFox")
+![firefox](http://f.vipin.us:88/images/firefox/firefox3.png "FireFox")
+![firefox](http://f.vipin.us:88/images/firefox/firefox4.png "FireFox")
+![firefox](http://f.vipin.us:88/images/firefox/firefox5.png "FireFox")
+![firefox](http://f.vipin.us:88/images/firefox/firefox6.png "FireFox")
+![firefox](http://f.vipin.us:88/images/firefox/firefox7.png "FireFox")
+![firefox](http://f.vipin.us:88/images/firefox/firefox8.png "FireFox")
+![firefox](http://f.vipin.us:88/images/firefox/firefox9.png "FireFox")
+![firefox](http://f.vipin.us:88/images/firefox/firefox10.png "FireFox")
+![firefox](http://f.vipin.us:88/images/firefox/firefox11.png "FireFox")
 
 ****
 
