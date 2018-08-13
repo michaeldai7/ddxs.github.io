@@ -1,11 +1,11 @@
 # Basic
-title: 科学上网联盟在线文档
+title: 网络安全联盟在线文档
 subtitle: 突破IP限制，访问全球资源
 welcome_message: <a href="/2018/08/使用说明列表/" target="_blank">文档目录</a>
 #description: Vno Jekyll is a port of my Ghost theme vno.
 #creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "https://blog.vpnpro.me"
+url: "http://blog.7x24hrs.com"
 
 permalink: /:year/:month/:title/
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 返回主页, description: 科学上网联盟 主页, url: 'https://www.vpnpro.me'}
+    - {title: 返回主页, description: 网络安全联盟 主页, url: 'https://www.7x24hrs.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
