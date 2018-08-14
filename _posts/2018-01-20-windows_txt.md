@@ -26,6 +26,13 @@ categories:  Windows Anyconnect
 
 ****
 
+### 软件下载
+
+>[Win 10,8,7 版下载](http://blog.vpnpro.me/files/win10.msi)
+
+>[Win XP 版下载](http://blog.vpnpro.me/files/winxp.msi)
+
+
 ### 主页上点击旗帜，自动复制服务器地址到系统剪贴板
 
 >au.vipin.us (澳大利亚/Australia)
