@@ -15,13 +15,9 @@ categories:  Windows Anyconnect
 ![windows](/assets/images/windows/windows4.png "Windows")
 ![windows](/assets/images/windows/windows5.png "Windows")
 ![windows](/assets/images/windows/windows6.png "Windows")
-![windows](/assets/images/windows/windows7.png "Windows")
-![windows](/assets/images/windows/windows8.png "Windows")
 ![windows](/assets/images/windows/windows9.png "Windows")
-![windows](/assets/images/windows/windows10.png "Windows")
 ![windows](/assets/images/windows/windows11.png "Windows")
 ![windows](/assets/images/windows/windows12.png "Windows")
-![windows](/assets/images/windows/windows13.png "Windows")
 ![windows](/assets/images/windows/windows14.png "Windows")
 
 ****

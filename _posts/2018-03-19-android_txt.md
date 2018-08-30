@@ -17,10 +17,7 @@ categories:  安卓 Anyconnect
 ![android](/assets/images/android/android6.png "Android")
 ![android](/assets/images/android/android7.png "Android")
 ![android](/assets/images/android/android8.png "Android")
-![android](/assets/images/android/android9.png "Android")
-![android](/assets/images/android/android10.png "Android")
 ![android](/assets/images/android/android11.png "Android")
-![android](/assets/images/android/android12.png "Android")
 ![android](/assets/images/android/android13.png "Android")
 ![android](/assets/images/android/android14.png "Android")
 ![android](/assets/images/android/android15.png "Android")
@@ -31,7 +28,7 @@ categories:  安卓 Anyconnect
 
 ### 软件下载
 
->[AnyConnect 下载](http://blog.vpnpro.me/files/android.apk)
+>[AnyConnect 下载](https://blog.vpnpro.me/files/android.apk)
 
 ### 主页上点击旗帜，自动复制服务器地址到系统剪贴板
 
