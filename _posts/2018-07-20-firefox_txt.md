@@ -26,6 +26,9 @@ categories:  FireFox 浏览器代理
 ### 在线恢复的网络地址
 
 ```
+https://blog.vipin.us/proxy
+```
+```
 https://ddxs.github.io/proxy
 ```
 ****
