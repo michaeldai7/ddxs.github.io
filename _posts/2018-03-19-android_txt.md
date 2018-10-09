@@ -48,6 +48,8 @@ categories:  安卓 Anyconnect
 
 >nl.vipin.us（荷兰/Holland）
 
+>ru.vipin.us（俄罗斯/Russia）
+
 >sg.vipin.us（新加坡/Singapore）
 
 >tw.vipin.us（台湾/Taiwan）
